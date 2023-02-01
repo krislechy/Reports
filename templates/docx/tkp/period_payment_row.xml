@@ -1,0 +1,142 @@
+<w:tr w:rsidR="00952499" w14:paraId="4B65C56A" w14:textId="77777777" w:rsidTr="005E7A53">
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:w="3600" w:type="dxa" />
+            <w:shd w:val="clear" w:color="auto" w:fill="auto" />
+            <w:tcMar>
+                <w:top w:w="100" w:type="dxa" />
+                <w:left w:w="100" w:type="dxa" />
+                <w:bottom w:w="100" w:type="dxa" />
+                <w:right w:w="100" w:type="dxa" />
+            </w:tcMar>
+        </w:tcPr>
+        <w:p w14:paraId="0752A44E" w14:textId="77777777" w:rsidR="00952499" w:rsidRDefault="00952499" w:rsidP="005E7A53">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:pBdr>
+                    <w:top w:val="nil" />
+                    <w:left w:val="nil" />
+                    <w:bottom w:val="nil" />
+                    <w:right w:val="nil" />
+                    <w:between w:val="nil" />
+                </w:pBdr>
+                <w:spacing w:after="0" />
+            </w:pPr>
+            <w:r>
+                <w:t>{PRODUCT_NAME}</w:t>
+            </w:r>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:w="1200" w:type="dxa" />
+            <w:shd w:val="clear" w:color="auto" w:fill="auto" />
+            <w:tcMar>
+                <w:top w:w="100" w:type="dxa" />
+                <w:left w:w="100" w:type="dxa" />
+                <w:bottom w:w="100" w:type="dxa" />
+                <w:right w:w="100" w:type="dxa" />
+            </w:tcMar>
+        </w:tcPr>
+        <w:p w14:paraId="0875F904" w14:textId="77777777" w:rsidR="00952499" w:rsidRDefault="00952499" w:rsidP="005E7A53">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:pBdr>
+                    <w:top w:val="nil" />
+                    <w:left w:val="nil" />
+                    <w:bottom w:val="nil" />
+                    <w:right w:val="nil" />
+                    <w:between w:val="nil" />
+                </w:pBdr>
+                <w:spacing w:after="0" />
+            </w:pPr>
+            <w:r>
+                <w:t>{MEASURE_NAME}</w:t>
+            </w:r>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:w="1600" w:type="dxa" />
+            <w:shd w:val="clear" w:color="auto" w:fill="auto" />
+            <w:tcMar>
+                <w:top w:w="100" w:type="dxa" />
+                <w:left w:w="100" w:type="dxa" />
+                <w:bottom w:w="100" w:type="dxa" />
+                <w:right w:w="100" w:type="dxa" />
+            </w:tcMar>
+        </w:tcPr>
+        <w:p w14:paraId="30DEB62B" w14:textId="77777777" w:rsidR="00952499" w:rsidRDefault="00952499" w:rsidP="005E7A53">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:pBdr>
+                    <w:top w:val="nil" />
+                    <w:left w:val="nil" />
+                    <w:bottom w:val="nil" />
+                    <w:right w:val="nil" />
+                    <w:between w:val="nil" />
+                </w:pBdr>
+                <w:spacing w:after="0" />
+            </w:pPr>
+            <w:r>
+                <w:t>{PRICE}</w:t>
+            </w:r>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:w="1000" w:type="dxa" />
+            <w:shd w:val="clear" w:color="auto" w:fill="auto" />
+            <w:tcMar>
+                <w:top w:w="100" w:type="dxa" />
+                <w:left w:w="100" w:type="dxa" />
+                <w:bottom w:w="100" w:type="dxa" />
+                <w:right w:w="100" w:type="dxa" />
+            </w:tcMar>
+        </w:tcPr>
+        <w:p w14:paraId="6AFF4D6F" w14:textId="77777777" w:rsidR="00952499" w:rsidRDefault="00952499" w:rsidP="005E7A53">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:pBdr>
+                    <w:top w:val="nil" />
+                    <w:left w:val="nil" />
+                    <w:bottom w:val="nil" />
+                    <w:right w:val="nil" />
+                    <w:between w:val="nil" />
+                </w:pBdr>
+                <w:spacing w:after="0" />
+            </w:pPr>
+            <w:r>
+                <w:t>{QUANTITY}</w:t>
+            </w:r>
+        </w:p>
+    </w:tc>
+    <w:tc>
+        <w:tcPr>
+            <w:tcW w:w="1600" w:type="dxa" />
+            <w:shd w:val="clear" w:color="auto" w:fill="auto" />
+            <w:tcMar>
+                <w:top w:w="100" w:type="dxa" />
+                <w:left w:w="100" w:type="dxa" />
+                <w:bottom w:w="100" w:type="dxa" />
+                <w:right w:w="100" w:type="dxa" />
+            </w:tcMar>
+        </w:tcPr>
+        <w:p w14:paraId="5F4A95E8" w14:textId="77777777" w:rsidR="00952499" w:rsidRDefault="00952499" w:rsidP="005E7A53">
+            <w:pPr>
+                <w:widowControl w:val="0" />
+                <w:pBdr>
+                    <w:top w:val="nil" />
+                    <w:left w:val="nil" />
+                    <w:bottom w:val="nil" />
+                    <w:right w:val="nil" />
+                    <w:between w:val="nil" />
+                </w:pBdr>
+                <w:spacing w:after="0" />
+            </w:pPr>
+            <w:r>
+                <w:t>{ROW_SUM}</w:t>
+            </w:r>
+        </w:p>
+    </w:tc>
+</w:tr>

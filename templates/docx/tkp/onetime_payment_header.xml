@@ -1,0 +1,110 @@
+<w:p w14:paraId="58A6648D" w14:textId="09DD3BEA" w:rsidR="001D3A98" w:rsidRPr="001D3A98" w:rsidRDefault="001D3A98">
+    <w:pPr>
+        <w:pStyle w:val="21" />
+        <w:tabs>
+            <w:tab w:val="left" w:pos="880" />
+            <w:tab w:val="right" w:leader="dot" w:pos="9345" />
+        </w:tabs>
+        <w:rPr>
+            <w:rFonts w:eastAsiaTheme="minorEastAsia" />
+            <w:noProof />
+            <w:sz w:val="28" />
+            <w:szCs w:val="28" />
+            <w:lang w:eastAsia="ru-RU" />
+        </w:rPr>
+    </w:pPr>
+    <w:hyperlink w:anchor="_Toc119435608" w:history="1">
+        <w:r w:rsidRPr="001D3A98">
+            <w:rPr>
+                <w:rStyle w:val="aa" />
+                <w:noProof />
+                <w:sz w:val="28" />
+                <w:szCs w:val="28" />
+            </w:rPr>
+            <w:t>{REF_NUMBER}</w:t>
+        </w:r>
+        <w:r w:rsidRPr="001D3A98">
+            <w:rPr>
+                <w:rFonts w:eastAsiaTheme="minorEastAsia" />
+                <w:noProof />
+                <w:sz w:val="28" />
+                <w:szCs w:val="28" />
+                <w:lang w:eastAsia="ru-RU" />
+            </w:rPr>
+            <w:tab />
+        </w:r>
+        <w:r w:rsidRPr="001D3A98">
+            <w:rPr>
+                <w:rStyle w:val="aa" />
+                <w:b />
+                <w:bCs />
+                <w:noProof />
+                <w:sz w:val="28" />
+                <w:szCs w:val="28" />
+            </w:rPr>
+            <w:t>Единоразовая оплата</w:t>
+        </w:r>
+        <w:r w:rsidRPr="001D3A98">
+            <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+                <w:sz w:val="28" />
+                <w:szCs w:val="28" />
+            </w:rPr>
+            <w:tab />
+        </w:r>
+        <w:r w:rsidRPr="001D3A98">
+            <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+                <w:sz w:val="28" />
+                <w:szCs w:val="28" />
+            </w:rPr>
+            <w:fldChar w:fldCharType="begin" />
+        </w:r>
+        <w:r w:rsidRPr="001D3A98">
+            <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+                <w:sz w:val="28" />
+                <w:szCs w:val="28" />
+            </w:rPr>
+            <w:instrText xml:space="preserve"> PAGEREF _Toc119435608 \h </w:instrText>
+        </w:r>
+        <w:r w:rsidRPr="001D3A98">
+            <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+                <w:sz w:val="28" />
+                <w:szCs w:val="28" />
+            </w:rPr>
+        </w:r>
+        <w:r w:rsidRPr="001D3A98">
+            <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+                <w:sz w:val="28" />
+                <w:szCs w:val="28" />
+            </w:rPr>
+            <w:fldChar w:fldCharType="separate" />
+        </w:r>
+        <w:r w:rsidRPr="001D3A98">
+            <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+                <w:sz w:val="28" />
+                <w:szCs w:val="28" />
+            </w:rPr>
+            <w:t>5</w:t>
+        </w:r>
+        <w:r w:rsidRPr="001D3A98">
+            <w:rPr>
+                <w:noProof />
+                <w:webHidden />
+                <w:sz w:val="28" />
+                <w:szCs w:val="28" />
+            </w:rPr>
+            <w:fldChar w:fldCharType="end" />
+        </w:r>
+    </w:hyperlink>
+</w:p>
